@@ -1,0 +1,8 @@
+from logos --->  SyntaxError: Unexpected token '<', "<h1>500 In"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:4306:19)
+    at successSteps (node:internal/deps/undici/undici:4288:27)
+    at fullyReadBody (node:internal/deps/undici/undici:2724:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async consumeBody (node:internal/deps/undici/undici:4297:7)
+    at async chatLobbyController (file:///C:/Users/RANDY/Desktop/chat-server/src/controllers/chatLobbyController.js:8:21)

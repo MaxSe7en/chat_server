@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 b255804d3bdc341afd4a94b79e7fcf67916644e4 Rookid19 <randyodoom19@gmail.com> 1720193190 +0000	commit (initial): first push
+b255804d3bdc341afd4a94b79e7fcf67916644e4 0000000000000000000000000000000000000000 Rookid19 <randyodoom19@gmail.com> 1720193199 +0000	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 b255804d3bdc341afd4a94b79e7fcf67916644e4 Rookid19 <randyodoom19@gmail.com> 1720193199 +0000	Branch: renamed refs/heads/master to refs/heads/main
+b255804d3bdc341afd4a94b79e7fcf67916644e4 da003869a9915fc6983f252fe3443c394d1451d7 Rookid19 <randyodoom19@gmail.com> 1720198823 +0000	commit: open chat
+da003869a9915fc6983f252fe3443c394d1451d7 8ad90fc429947a5cf6b978ce5ee8c805be2aabd0 Rookid19 <randyodoom19@gmail.com> 1720532763 +0000	commit: chat lobby configs
+8ad90fc429947a5cf6b978ce5ee8c805be2aabd0 fe22f11ff28ae514e601522fa8aa7baeb2b9039a Rookid19 <randyodoom19@gmail.com> 1720695870 +0000	commit: generate unique key for sender and reveiver
+fe22f11ff28ae514e601522fa8aa7baeb2b9039a 284245746e767990195484d2a758441f351ef303 Rookid19 <randyodoom19@gmail.com> 1720717512 +0000	commit: p2p chat
+284245746e767990195484d2a758441f351ef303 bb47e65451954c6e276a7d7b4feb0d98c0d7a8b9 Rookid19 <randyodoom19@gmail.com> 1720802055 +0000	commit: p2p server
+bb47e65451954c6e276a7d7b4feb0d98c0d7a8b9 87b47e29bbf98f577f6eca42b9713c4741e66b7e Rookid19 <randyodoom19@gmail.com> 1721232523 +0000	commit: group messages
+87b47e29bbf98f577f6eca42b9713c4741e66b7e ff5e98f756527ca333af4a856afa26bc7d93795f Rookid19 <randyodoom19@gmail.com> 1721408481 +0000	commit: groups
+ff5e98f756527ca333af4a856afa26bc7d93795f b936aef5daa79361c05eacb484f3575e5299ba08 Rookid19 <randyodoom19@gmail.com> 1721924519 +0000	commit: group chatting
+b936aef5daa79361c05eacb484f3575e5299ba08 af11887862273bdf2bfdb873b0997de154ba766f Rookid19 <randyodoom19@gmail.com> 1722419018 +0000	commit: group broadcast message
+af11887862273bdf2bfdb873b0997de154ba766f 6cc318fc9268b7702eaf290b3e522db7abdd370c Rookid19 <randyodoom19@gmail.com> 1722612610 +0000	commit: chat server
+6cc318fc9268b7702eaf290b3e522db7abdd370c f78241717657529e1c175f1829d5387baa585253 Rookid19 <randyodoom19@gmail.com> 1722947976 +0000	commit: logs and db
+f78241717657529e1c175f1829d5387baa585253 3a573b79fc90727c7d34cbab88008048b852c7cd Rookid19 <randyodoom19@gmail.com> 1722954020 +0000	commit: logger
+3a573b79fc90727c7d34cbab88008048b852c7cd 3ef337259a17dee38ec164cc5446baa5f06fdcc8 Rookid19 <randyodoom19@gmail.com> 1723474919 +0000	commit: chat lobby service
+3ef337259a17dee38ec164cc5446baa5f06fdcc8 985a4d4d815e8f00565728ca99ee31a2c6c0721b Rookid19 <randyodoom19@gmail.com> 1723824301 +0000	commit: last seen
+985a4d4d815e8f00565728ca99ee31a2c6c0721b fb5adabe872cb4f5877e70ace8c526752789d530 Rookid19 <randyodoom19@gmail.com> 1724150032 +0000	commit: last seen and chat message count
+fb5adabe872cb4f5877e70ace8c526752789d530 5422ddd9e52944255e03272b1aefef6cb29221d6 Rookid19 <randyodoom19@gmail.com> 1724431107 +0000	commit: unread implementation
+5422ddd9e52944255e03272b1aefef6cb29221d6 ab55894fcc57c4b76c9a3e862da69e296516ef19 Rookid19 <randyodoom19@gmail.com> 1724930945 +0000	commit: chat final
+ab55894fcc57c4b76c9a3e862da69e296516ef19 a3f1c8e9916b090ca94c96767178368632edece7 Rookid19 <randyodoom19@gmail.com> 1725012393 +0000	commit: good day
+a3f1c8e9916b090ca94c96767178368632edece7 3a39c0208d473223f1fe53c1a55b0fb4a1a3055c logosrema <pneumalogos@gmail.com> 1724989058 +0800	commit: Co-authored-by: Awuah Maxwell Twerefour <nanayawfixing@gmail.com>
+3a39c0208d473223f1fe53c1a55b0fb4a1a3055c 4acb7a68b8d10b4c0c8e6bf8d56ec414dada218a logosrema <pneumalogos@gmail.com> 1724990986 +0800	commit: Co-authored-by: Awuah Maxwell Twerefour <nanayawfixing@gmail.com>
